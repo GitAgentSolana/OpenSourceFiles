@@ -1,7 +1,7 @@
 # GitAgent
 Project GitAgent aims to develop AI agents, or "Navigators," designed specifically to interact with the web in a human-like manner. These navigators would not just interpret data or provide information; they would physically interact with web interfaces, from clicking links to filling out forms or even engaging in online transactions.
 
-![V](https://github.com/user-attachments/assets/4ff6190f-25c5-4470-835a-f78908d93891)
+
 
 # Key Components 
 
